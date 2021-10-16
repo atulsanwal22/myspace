@@ -1,0 +1,5507 @@
+// 20211016141356
+// https://dsv.ihsmvals.com/instruments/v2.0/mappings/instruments/all/provider/pv/system/holidays
+
+{
+  "mappings": [
+    {
+      "instrument": {
+        "instrumentId": 15873,
+        "instrumentSymbol": "EXCH-XCBT-CBA",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:27Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40295,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "CBA"
+          },
+          "created": "2020-01-10T06:39:28",
+          "updated": "2020-01-10T06:39:28",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15876,
+        "instrumentSymbol": "EXCH-XCBT-CMF",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:27Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40296,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "CBE"
+          },
+          "created": "2020-01-10T06:39:29",
+          "updated": "2020-01-10T06:39:29",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15370,
+        "instrumentSymbol": "EXCH-BVMF",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:53Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40269,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "SAX"
+          },
+          "created": "2020-01-10T06:38:54",
+          "updated": "2020-01-10T06:38:54",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16398,
+        "instrumentSymbol": "EXCH-XSGO",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:04Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40353,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "SGX"
+          },
+          "created": "2020-01-10T06:40:05",
+          "updated": "2020-01-10T06:40:05",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16403,
+        "instrumentSymbol": "EXCH-XSHG",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:04Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40354,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "SHX"
+          },
+          "created": "2020-01-10T06:40:05",
+          "updated": "2020-01-10T06:40:05",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16416,
+        "instrumentSymbol": "EXCH-XSSC",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:05Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40355,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "SSC"
+          },
+          "created": "2020-01-10T06:40:06",
+          "updated": "2020-01-10T06:40:06",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16418,
+        "instrumentSymbol": "EXCH-XSSE",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:05Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40356,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "SSE"
+          },
+          "created": "2020-01-10T06:40:06",
+          "updated": "2020-01-10T06:40:06",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15906,
+        "instrumentSymbol": "EXCH-XCME-CMF",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:29Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40297,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "CME"
+          },
+          "created": "2020-01-10T06:39:31",
+          "updated": "2020-01-10T06:39:31",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16423,
+        "instrumentSymbol": "EXCH-XSTO",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:05Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40358,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "SWE"
+          },
+          "created": "2020-01-10T06:40:07",
+          "updated": "2020-01-10T06:40:07",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16426,
+        "instrumentSymbol": "EXCH-XSTC",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:06Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40357,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "STC"
+          },
+          "created": "2020-01-10T06:40:07",
+          "updated": "2020-01-10T06:40:07",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16431,
+        "instrumentSymbol": "EXCH-XSWX",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:06Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40359,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "SWZ"
+          },
+          "created": "2020-01-10T06:40:07",
+          "updated": "2020-01-10T06:40:07",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16947,
+        "instrumentSymbol": "PV-ITY",
+        "instrumentType": "holiday",
+        "created": "2020-04-10T18:18:17Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40784,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "ITY"
+          },
+          "created": "2020-04-20T15:15:54",
+          "updated": "2020-04-20T15:15:54",
+          "startDate": "2020-04-20",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15923,
+        "instrumentSymbol": "EXCH-XCSE",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:30Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40298,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "CPX"
+          },
+          "created": "2020-01-10T06:39:31",
+          "updated": "2020-01-10T06:39:31",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16441,
+        "instrumentSymbol": "EXCH-XTAE",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:07Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40360,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "TAX"
+          },
+          "created": "2020-01-10T06:40:08",
+          "updated": "2020-01-10T06:40:08",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15931,
+        "instrumentSymbol": "EXCH-XCYS",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:31Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40300,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "CYX"
+          },
+          "created": "2020-01-10T06:39:33",
+          "updated": "2020-01-10T06:39:33",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15419,
+        "instrumentSymbol": "EXCH-DSMD",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:57Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40270,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "DSM"
+          },
+          "created": "2020-01-10T06:38:58",
+          "updated": "2020-01-10T06:38:58",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16444,
+        "instrumentSymbol": "EXCH-XTAI",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:07Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40361,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "MST"
+          },
+          "created": "2020-01-10T06:40:08",
+          "updated": "2020-01-10T06:40:08",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15937,
+        "instrumentSymbol": "EXCH-XDAR",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:31Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40299,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "DAR"
+          },
+          "created": "2020-01-10T06:39:32",
+          "updated": "2020-01-10T06:39:32",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15941,
+        "instrumentSymbol": "EXCH-XDFM",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:32Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40301,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "DBY"
+          },
+          "created": "2020-01-10T06:39:33",
+          "updated": "2020-01-10T06:39:33",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 14918,
+        "instrumentSymbol": "BANK-AR-BUE",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:20Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40188,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "BNA"
+          },
+          "created": "2020-01-10T06:38:21",
+          "updated": "2020-01-10T06:38:21",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 14919,
+        "instrumentSymbol": "BANK-AE-DXB",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:20Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40190,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "DXB"
+          },
+          "created": "2020-01-10T06:38:21",
+          "updated": "2020-01-10T06:38:21",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15950,
+        "instrumentSymbol": "EXCH-XDUB",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:32Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40302,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "IEX"
+          },
+          "created": "2020-01-10T06:39:33",
+          "updated": "2020-01-10T06:39:33",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16463,
+        "instrumentSymbol": "EXCH-XTKT",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:09Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40362,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "TCE"
+          },
+          "created": "2020-01-10T06:40:10",
+          "updated": "2020-01-10T06:40:10",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 14927,
+        "instrumentSymbol": "BANK-AU-BNE",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:20Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40191,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "BNE"
+          },
+          "created": "2020-01-10T06:38:21",
+          "updated": "2020-01-10T06:38:21",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 14928,
+        "instrumentSymbol": "BANK-AU-SYD",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:20Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40189,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "SYD"
+          },
+          "created": "2020-01-10T06:38:21",
+          "updated": "2020-01-10T06:38:21",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16471,
+        "instrumentSymbol": "EXCH-XTSE",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:09Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40363,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "CAE"
+          },
+          "created": "2020-01-10T06:40:10",
+          "updated": "2020-01-10T06:40:10",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 14936,
+        "instrumentSymbol": "BANK-AU-MEL",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:20Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40192,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "MEL"
+          },
+          "created": "2020-01-10T06:38:21",
+          "updated": "2020-01-10T06:38:21",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16473,
+        "instrumentSymbol": "EXCH-XTSX",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:09Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40364,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "VAX"
+          },
+          "created": "2020-01-10T06:40:11",
+          "updated": "2020-01-10T06:40:11",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15969,
+        "instrumentSymbol": "EXCH-XETR",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:33Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40303,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "GEE"
+          },
+          "created": "2020-01-10T06:39:35",
+          "updated": "2020-01-10T06:39:35",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 14952,
+        "instrumentSymbol": "BANK-BM-BDA",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:22Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40195,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "HAM"
+          },
+          "created": "2020-01-10T06:38:23",
+          "updated": "2020-01-10T06:38:23",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16490,
+        "instrumentSymbol": "EXCH-XVTX",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:10Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40365,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "VTX"
+          },
+          "created": "2020-01-10T06:40:11",
+          "updated": "2020-01-10T06:40:11",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 14954,
+        "instrumentSymbol": "BANK-BG-SOF",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:22Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40194,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "SOF"
+          },
+          "created": "2020-01-10T06:38:23",
+          "updated": "2020-01-10T06:38:23",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16491,
+        "instrumentSymbol": "EXCH-XWAR",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:11Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40366,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "WSX"
+          },
+          "created": "2020-01-10T06:40:12",
+          "updated": "2020-01-10T06:40:12",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15980,
+        "instrumentSymbol": "EXCH-XEUR",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:34Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40304,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "EUX"
+          },
+          "created": "2020-01-10T06:39:35",
+          "updated": "2020-01-10T06:39:35",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 14956,
+        "instrumentSymbol": "BANK-BH-AMH",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:22Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40193,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "MNM"
+          },
+          "created": "2020-01-10T06:38:23",
+          "updated": "2020-01-10T06:38:23",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16500,
+        "instrumentSymbol": "EXCH-XZIM",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:11Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40367,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "ZMX"
+          },
+          "created": "2020-01-10T06:40:12",
+          "updated": "2020-01-10T06:40:12",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 14965,
+        "instrumentSymbol": "BANK-BR-BSB",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:23Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40196,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "BRF"
+          },
+          "created": "2020-01-10T06:38:24",
+          "updated": "2020-01-10T06:38:24",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 14971,
+        "instrumentSymbol": "BANK-BR-SAO",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:23Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40198,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "SPA"
+          },
+          "created": "2020-01-10T06:38:25",
+          "updated": "2020-01-10T06:38:25",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16509,
+        "instrumentSymbol": "SIFMA-US",
+        "instrumentType": "holiday",
+        "created": "2020-05-05T18:10:25Z"
+      },
+      "mappings": [
+        {
+          "pkey": 46445,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "NYC"
+          },
+          "created": "2020-05-27T18:27:29",
+          "updated": "2020-05-27T18:27:29",
+          "startDate": "2020-05-27",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 14973,
+        "instrumentSymbol": "BANK-CA-CAL",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:23Z"
+      },
+      "mappings": [
+        {
+          "pkey": 66827,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "CAL"
+          },
+          "created": "2021-05-04T13:51:12.635453",
+          "updated": "2021-05-04T13:51:12.635453",
+          "startDate": "2021-05-04",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 14974,
+        "instrumentSymbol": "BANK-BR-RIO",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:23Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40197,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "RIO"
+          },
+          "created": "2020-01-10T06:38:25",
+          "updated": "2020-01-10T06:38:25",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16515,
+        "instrumentSymbol": "FIXING-TELB",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:12Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40368,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "TLB"
+          },
+          "created": "2020-01-10T06:40:13",
+          "updated": "2020-01-10T06:40:13",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16518,
+        "instrumentSymbol": "FX-AED",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:13Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40369,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "AED"
+          },
+          "created": "2020-01-10T06:40:14",
+          "updated": "2020-01-10T06:40:14",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 14983,
+        "instrumentSymbol": "BANK-CA-TOR",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:24Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40199,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "TOR"
+          },
+          "created": "2020-01-10T06:38:26",
+          "updated": "2020-01-10T06:38:26",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16014,
+        "instrumentSymbol": "EXCH-XGAT",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:36Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40305,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "FRX"
+          },
+          "created": "2020-01-10T06:39:38",
+          "updated": "2020-01-10T06:39:38",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16019,
+        "instrumentSymbol": "EXCH-XGME",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:37Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40306,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "ILE"
+          },
+          "created": "2020-01-10T06:39:38",
+          "updated": "2020-01-10T06:39:38",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 14997,
+        "instrumentSymbol": "BANK-CL-SCL",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:25Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40200,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "SNT"
+          },
+          "created": "2020-01-10T06:38:26",
+          "updated": "2020-01-10T06:38:26",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16535,
+        "instrumentSymbol": "FX-BMD",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:13Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40370,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "BMD"
+          },
+          "created": "2020-01-10T06:40:15",
+          "updated": "2020-01-10T06:40:15",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15001,
+        "instrumentSymbol": "BANK-CH-ZRH",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:26Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40201,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "ZUR"
+          },
+          "created": "2020-01-10T06:38:27",
+          "updated": "2020-01-10T06:38:27",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15003,
+        "instrumentSymbol": "BANK-CN-BJS",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:26Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40202,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "BEI"
+          },
+          "created": "2020-01-10T06:38:27",
+          "updated": "2020-01-10T06:38:27",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16540,
+        "instrumentSymbol": "FX-BRL",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:14Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40371,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "BRZ"
+          },
+          "created": "2020-01-10T06:40:15",
+          "updated": "2020-01-10T06:40:15",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16543,
+        "instrumentSymbol": "FX-BWP",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:14Z"
+      },
+      "mappings": [
+        {
+          "pkey": 47338,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "GAB"
+          },
+          "created": "2020-08-07T13:26:16.275603",
+          "updated": "2020-08-07T13:26:16.275603",
+          "startDate": "2020-08-07",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16033,
+        "instrumentSymbol": "EXCH-XHEL",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:38Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40307,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "FIE"
+          },
+          "created": "2020-01-10T06:39:39",
+          "updated": "2020-01-10T06:39:39",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15010,
+        "instrumentSymbol": "BANK-CN-SHA",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:26Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40203,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "SHG"
+          },
+          "created": "2020-01-10T06:38:27",
+          "updated": "2020-01-10T06:38:27",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15014,
+        "instrumentSymbol": "BANK-CO-BOG",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:27Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40204,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "BOG"
+          },
+          "created": "2020-01-10T06:38:28",
+          "updated": "2020-01-10T06:38:28",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16040,
+        "instrumentSymbol": "EXCH-XHKG",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:38Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40308,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "HKE"
+          },
+          "created": "2020-01-10T06:39:39",
+          "updated": "2020-01-10T06:39:39",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16044,
+        "instrumentSymbol": "EXCH-XIDX",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:38Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40309,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "ISX"
+          },
+          "created": "2020-01-10T06:39:40",
+          "updated": "2020-01-10T06:39:40",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16046,
+        "instrumentSymbol": "EXCH-XICE",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:39Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40310,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "ICX"
+          },
+          "created": "2020-01-10T06:39:41",
+          "updated": "2020-01-10T06:39:41",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15022,
+        "instrumentSymbol": "BANK-CZ-PRG",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:27Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40205,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "PRA"
+          },
+          "created": "2020-01-10T06:38:29",
+          "updated": "2020-01-10T06:38:29",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15536,
+        "instrumentSymbol": "EXCH-IFEU-IPE",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:04Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40271,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "ICE"
+          },
+          "created": "2020-01-10T06:39:05",
+          "updated": "2020-01-10T06:39:05",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16561,
+        "instrumentSymbol": "FX-EUR",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:16Z"
+      },
+      "mappings": [
+        {
+          "pkey": 46044,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "TRG"
+          },
+          "created": "2020-05-16T01:42:27",
+          "updated": "2020-05-16T01:42:27",
+          "startDate": "2020-01-01",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15025,
+        "instrumentSymbol": "BANK-DE-FRA",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:27Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40206,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "FRA"
+          },
+          "created": "2020-01-10T06:38:29",
+          "updated": "2020-01-10T06:38:29",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15540,
+        "instrumentSymbol": "EXCH-IFLL",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:04Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40272,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "LFE"
+          },
+          "created": "2020-01-10T06:39:06",
+          "updated": "2020-01-10T06:39:06",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15034,
+        "instrumentSymbol": "BANK-DK-CPH",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:28Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40207,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "CHG"
+          },
+          "created": "2020-01-10T06:38:30",
+          "updated": "2020-01-10T06:38:30",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16059,
+        "instrumentSymbol": "EXCH-XIST",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:39Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40311,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "IBX"
+          },
+          "created": "2020-01-10T06:39:41",
+          "updated": "2020-01-10T06:39:41",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15551,
+        "instrumentSymbol": "EXCH-IFUS",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:05Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40273,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "NBE"
+          },
+          "created": "2020-01-10T06:39:06",
+          "updated": "2020-01-10T06:39:06",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15040,
+        "instrumentSymbol": "BANK-EG-CAI",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:29Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40208,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "CRO"
+          },
+          "created": "2020-01-10T06:38:30",
+          "updated": "2020-01-10T06:38:30",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16067,
+        "instrumentSymbol": "EXCH-XJAS",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:40Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40312,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "HEX"
+          },
+          "created": "2020-01-10T06:39:41",
+          "updated": "2020-01-10T06:39:41",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16068,
+        "instrumentSymbol": "EXCH-XJPX",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:40Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40313,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "JAE"
+          },
+          "created": "2020-01-10T06:39:41",
+          "updated": "2020-01-10T06:39:41",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16070,
+        "instrumentSymbol": "EXCH-XJSE",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:40Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40314,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "JNX"
+          },
+          "created": "2020-01-10T06:39:41",
+          "updated": "2020-01-10T06:39:41",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16074,
+        "instrumentSymbol": "EXCH-XKAZ",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:40Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40315,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "KZH"
+          },
+          "created": "2020-01-10T06:39:42",
+          "updated": "2020-01-10T06:39:42",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15052,
+        "instrumentSymbol": "BANK-ES-MAD",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:29Z"
+      },
+      "mappings": [
+        {
+          "pkey": 68402,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "ESP"
+          },
+          "created": "2021-09-03T02:24:46.014143",
+          "updated": "2021-09-03T02:24:46.014143",
+          "startDate": "2021-09-03",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16593,
+        "instrumentSymbol": "FX-KES",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:18Z"
+      },
+      "mappings": [
+        {
+          "pkey": 47217,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "NAI"
+          },
+          "created": "2020-07-28T11:51:38.223972",
+          "updated": "2020-07-28T11:51:38.223972",
+          "startDate": "2020-07-28",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15066,
+        "instrumentSymbol": "BANK-GB-LON",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:31Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40209,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "LON"
+          },
+          "created": "2020-01-10T06:38:32",
+          "updated": "2020-01-10T06:38:32",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15068,
+        "instrumentSymbol": "BANK-GG-SPT",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:31Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40210,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "SPT"
+          },
+          "created": "2020-01-10T06:38:32",
+          "updated": "2020-01-10T06:38:32",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16605,
+        "instrumentSymbol": "FX-MAD",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:19Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40373,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "RAB"
+          },
+          "created": "2020-01-10T06:40:20",
+          "updated": "2020-01-10T06:40:20",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15069,
+        "instrumentSymbol": "BANK-GH-ACC",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:31Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40211,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "ACC"
+          },
+          "created": "2020-01-10T06:38:32",
+          "updated": "2020-01-10T06:38:32",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16094,
+        "instrumentSymbol": "EXCH-XKOS",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:42Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40318,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "KOX"
+          },
+          "created": "2020-01-10T06:39:43",
+          "updated": "2020-01-10T06:39:43",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16095,
+        "instrumentSymbol": "EXCH-XKRX",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:42Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40316,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "SKE"
+          },
+          "created": "2020-01-10T06:39:43",
+          "updated": "2020-01-10T06:39:43",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16096,
+        "instrumentSymbol": "EXCH-XKLS",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:42Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40317,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "KLX"
+          },
+          "created": "2020-01-10T06:39:43",
+          "updated": "2020-01-10T06:39:43",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16102,
+        "instrumentSymbol": "EXCH-XKUW",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:42Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40319,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "KUY"
+          },
+          "created": "2020-01-10T06:39:44",
+          "updated": "2020-01-10T06:39:44",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15081,
+        "instrumentSymbol": "BANK-GR-ATH",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:32Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40216,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "ATH"
+          },
+          "created": "2020-01-10T06:38:33",
+          "updated": "2020-01-10T06:38:33",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16618,
+        "instrumentSymbol": "FX-NOK",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:19Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40374,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "NRW"
+          },
+          "created": "2020-01-10T06:40:21",
+          "updated": "2020-01-10T06:40:21",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16106,
+        "instrumentSymbol": "EXCH-XLBM",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:43Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40320,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "LAM"
+          },
+          "created": "2020-01-10T06:39:44",
+          "updated": "2020-01-10T06:39:44",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15085,
+        "instrumentSymbol": "BANK-HR-ZAG",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:32Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40212,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "ZGB"
+          },
+          "created": "2020-01-10T06:38:33",
+          "updated": "2020-01-10T06:38:33",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15087,
+        "instrumentSymbol": "BANK-HU-BUD",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:32Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40214,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "BUD"
+          },
+          "created": "2020-01-10T06:38:33",
+          "updated": "2020-01-10T06:38:33",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15088,
+        "instrumentSymbol": "BANK-HK-HKG",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:32Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40213,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "HKG"
+          },
+          "created": "2020-01-10T06:38:33",
+          "updated": "2020-01-10T06:38:33",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15090,
+        "instrumentSymbol": "BANK-ID-JKT",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:32Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40215,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "JKT"
+          },
+          "created": "2020-01-10T06:38:33",
+          "updated": "2020-01-10T06:38:33",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16115,
+        "instrumentSymbol": "EXCH-XLIM",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:43Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40321,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "LSX"
+          },
+          "created": "2020-01-10T06:39:44",
+          "updated": "2020-01-10T06:39:44",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16628,
+        "instrumentSymbol": "FX-PHP",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:20Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40375,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "PSO"
+          },
+          "created": "2020-01-10T06:40:21",
+          "updated": "2020-01-10T06:40:21",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16119,
+        "instrumentSymbol": "EXCH-XLIS-MCP",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:44Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40322,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "MPX"
+          },
+          "created": "2020-01-10T06:39:45",
+          "updated": "2020-01-10T06:39:45",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15096,
+        "instrumentSymbol": "BANK-IL-TLV",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:32Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40217,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "TLV"
+          },
+          "created": "2020-01-10T06:38:34",
+          "updated": "2020-01-10T06:38:34",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15099,
+        "instrumentSymbol": "BANK-IN-BOM",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:33Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40218,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "MMB"
+          },
+          "created": "2020-01-10T06:38:34",
+          "updated": "2020-01-10T06:38:34",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15612,
+        "instrumentSymbol": "EXCH-MTAA",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:09Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40274,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "EXX"
+          },
+          "created": "2020-01-10T06:39:10",
+          "updated": "2020-01-10T06:39:10",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15102,
+        "instrumentSymbol": "BANK-IN-ICD",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:33Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40219,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "ICD"
+          },
+          "created": "2020-01-10T06:38:34",
+          "updated": "2020-01-10T06:38:34",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16128,
+        "instrumentSymbol": "EXCH-XLIT",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:44Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40323,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "NOV"
+          },
+          "created": "2020-01-10T06:39:45",
+          "updated": "2020-01-10T06:39:45",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16133,
+        "instrumentSymbol": "EXCH-XLON",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:45Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40324,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "LNE"
+          },
+          "created": "2020-01-10T06:39:46",
+          "updated": "2020-01-10T06:39:46",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15113,
+        "instrumentSymbol": "BANK-IS-REY",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:34Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40220,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "REY"
+          },
+          "created": "2020-01-10T06:38:35",
+          "updated": "2020-01-10T06:38:35",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16651,
+        "instrumentSymbol": "FX-TND",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:22Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40376,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "TUN"
+          },
+          "created": "2020-01-10T06:40:23",
+          "updated": "2020-01-10T06:40:23",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16142,
+        "instrumentSymbol": "EXCH-XLUX",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:45Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40325,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "LUX"
+          },
+          "created": "2020-01-10T06:39:46",
+          "updated": "2020-01-10T06:39:46",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15119,
+        "instrumentSymbol": "BANK-JE-STH",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:34Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40221,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "JER"
+          },
+          "created": "2020-01-10T06:38:35",
+          "updated": "2020-01-10T06:38:35",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16656,
+        "instrumentSymbol": "FX-UGX",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:22Z"
+      },
+      "mappings": [
+        {
+          "pkey": 47219,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "KLA"
+          },
+          "created": "2020-07-28T11:53:27.954684",
+          "updated": "2020-07-28T11:53:27.954684",
+          "startDate": "2020-07-28",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15123,
+        "instrumentSymbol": "BANK-JP-TYO",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:35Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40223,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "TYO"
+          },
+          "created": "2020-01-10T06:38:36",
+          "updated": "2020-01-10T06:38:36",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16660,
+        "instrumentSymbol": "FX-TZS",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:22Z"
+      },
+      "mappings": [
+        {
+          "pkey": 72923,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "TZS"
+          },
+          "created": "2021-09-21T11:16:18.009943",
+          "updated": "2021-09-21T11:16:18.009943",
+          "startDate": "2021-09-21",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15124,
+        "instrumentSymbol": "BANK-KE-NBO",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:35Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40222,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "NBO"
+          },
+          "created": "2020-01-10T06:38:36",
+          "updated": "2020-01-10T06:38:36",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16663,
+        "instrumentSymbol": "FX-VES",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:22Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40377,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "VEF"
+          },
+          "created": "2020-01-10T06:40:23",
+          "updated": "2020-01-10T06:40:23",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16667,
+        "instrumentSymbol": "FX-WMR",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:23Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40378,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "WMR"
+          },
+          "created": "2020-01-10T06:40:24",
+          "updated": "2020-01-10T06:40:24",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15133,
+        "instrumentSymbol": "BANK-KR-SEL",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:35Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40225,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "SEO"
+          },
+          "created": "2020-01-10T06:38:37",
+          "updated": "2020-01-10T06:38:37",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15134,
+        "instrumentSymbol": "BANK-KW-KWI",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:35Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40224,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "KWI"
+          },
+          "created": "2020-01-10T06:38:36",
+          "updated": "2020-01-10T06:38:36",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16160,
+        "instrumentSymbol": "EXCH-XMEX",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:47Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40327,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "MXX"
+          },
+          "created": "2020-01-10T06:39:48",
+          "updated": "2020-01-10T06:39:48",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15137,
+        "instrumentSymbol": "BANK-KZ-ALA",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:36Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40226,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "ALM"
+          },
+          "created": "2020-01-10T06:38:37",
+          "updated": "2020-01-10T06:38:37",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16675,
+        "instrumentSymbol": "FX-ZMW",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:23Z"
+      },
+      "mappings": [
+        {
+          "pkey": 47218,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "LSK"
+          },
+          "created": "2020-07-28T11:52:52.426121",
+          "updated": "2020-07-28T11:52:52.426121",
+          "startDate": "2020-07-28",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15651,
+        "instrumentSymbol": "EXCH-NLPX",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:12Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40275,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "APX"
+          },
+          "created": "2020-01-10T06:39:13",
+          "updated": "2020-01-10T06:39:13",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16678,
+        "instrumentSymbol": "INDEX-CECE-HCA",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:23Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40379,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "WCH"
+          },
+          "created": "2020-01-10T06:40:25",
+          "updated": "2020-01-10T06:40:25",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15142,
+        "instrumentSymbol": "BANK-LK-CMB",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:36Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40227,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "CMB"
+          },
+          "created": "2020-01-10T06:38:37",
+          "updated": "2020-01-10T06:38:37",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16679,
+        "instrumentSymbol": "INDEX-CECE-OIL",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:24Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40380,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "WCO"
+          },
+          "created": "2020-01-10T06:40:25",
+          "updated": "2020-01-10T06:40:25",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16680,
+        "instrumentSymbol": "INDEX-ATXI",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:24Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40381,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "WAT"
+          },
+          "created": "2020-01-10T06:40:25",
+          "updated": "2020-01-10T06:40:25",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15144,
+        "instrumentSymbol": "BANK-LV-RIX",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:36Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40229,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "RIG"
+          },
+          "created": "2020-01-10T06:38:38",
+          "updated": "2020-01-10T06:38:38",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16681,
+        "instrumentSymbol": "INDEX-CECE",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:24Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40382,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "VCE"
+          },
+          "created": "2020-01-10T06:40:25",
+          "updated": "2020-01-10T06:40:25",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16682,
+        "instrumentSymbol": "INDEX-DJIX",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:24Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40392,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "VDG"
+          },
+          "created": "2020-01-10T06:40:26",
+          "updated": "2020-01-10T06:40:26",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16683,
+        "instrumentSymbol": "INDEX-DJSX",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:24Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40386,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "EUY"
+          },
+          "created": "2020-01-10T06:40:25",
+          "updated": "2020-01-10T06:40:25",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15147,
+        "instrumentSymbol": "BANK-LT-VNO",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:36Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40228,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "VLN"
+          },
+          "created": "2020-01-10T06:38:38",
+          "updated": "2020-01-10T06:38:38",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16684,
+        "instrumentSymbol": "INDEX-FTSE-AWI",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:24Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40388,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "FAW"
+          },
+          "created": "2020-01-10T06:40:25",
+          "updated": "2020-01-10T06:40:25",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16685,
+        "instrumentSymbol": "INDEX-CECE-TEL",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:24Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40390,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "WCT"
+          },
+          "created": "2020-01-10T06:40:25",
+          "updated": "2020-01-10T06:40:25",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16686,
+        "instrumentSymbol": "INDEX-CECE-INF",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:24Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40385,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "WCI"
+          },
+          "created": "2020-01-10T06:40:25",
+          "updated": "2020-01-10T06:40:25",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16687,
+        "instrumentSymbol": "INDEX-CECE-BNK",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:24Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40383,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "WVB"
+          },
+          "created": "2020-01-10T06:40:25",
+          "updated": "2020-01-10T06:40:25",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16175,
+        "instrumentSymbol": "EXCH-XMLI",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:48Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40328,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "LNX"
+          },
+          "created": "2020-01-10T06:39:49",
+          "updated": "2020-01-10T06:39:49",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16688,
+        "instrumentSymbol": "INDEX-FTSE-BMY",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:24Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40393,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "FBM"
+          },
+          "created": "2020-01-10T06:40:26",
+          "updated": "2020-01-10T06:40:26",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16689,
+        "instrumentSymbol": "INDEX-FTSE-RUS",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:24Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40384,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "FRI"
+          },
+          "created": "2020-01-10T06:40:25",
+          "updated": "2020-01-10T06:40:25",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15153,
+        "instrumentSymbol": "BANK-MA-RBA",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:37Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40230,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "RBA"
+          },
+          "created": "2020-01-10T06:38:38",
+          "updated": "2020-01-10T06:38:38",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16690,
+        "instrumentSymbol": "INDEX-FTSE-EPR",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:24Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40396,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "VFE"
+          },
+          "created": "2020-01-10T06:40:26",
+          "updated": "2020-01-10T06:40:26",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16691,
+        "instrumentSymbol": "INDEX-FTSE-EUR",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:24Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40389,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "FEI"
+          },
+          "created": "2020-01-10T06:40:25",
+          "updated": "2020-01-10T06:40:25",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16692,
+        "instrumentSymbol": "INDEX-FTSE-UKI",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:24Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40387,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "VFT"
+          },
+          "created": "2020-01-10T06:40:25",
+          "updated": "2020-01-10T06:40:25",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16693,
+        "instrumentSymbol": "INDEX-RUSS",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:24Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40397,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "RUS"
+          },
+          "created": "2020-01-10T06:40:26",
+          "updated": "2020-01-10T06:40:26",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16694,
+        "instrumentSymbol": "INDEX-NERC",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:24Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40391,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "NRE"
+          },
+          "created": "2020-01-10T06:40:25",
+          "updated": "2020-01-10T06:40:25",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15158,
+        "instrumentSymbol": "BANK-MK-SKP",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:37Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40231,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "SKP"
+          },
+          "created": "2020-01-10T06:38:38",
+          "updated": "2020-01-10T06:38:38",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16695,
+        "instrumentSymbol": "INDEX-SPAS",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:25Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40395,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "SAS"
+          },
+          "created": "2020-01-10T06:40:26",
+          "updated": "2020-01-10T06:40:26",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15671,
+        "instrumentSymbol": "EXCH-OMIP",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:13Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40276,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "LIX"
+          },
+          "created": "2020-01-10T06:39:15",
+          "updated": "2020-01-10T06:39:15",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16696,
+        "instrumentSymbol": "INDEX-GSCI",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:25Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40394,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "GSC"
+          },
+          "created": "2020-01-10T06:40:26",
+          "updated": "2020-01-10T06:40:26",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16697,
+        "instrumentSymbol": "INDEX-SETX",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:25Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40398,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "WST"
+          },
+          "created": "2020-01-10T06:40:26",
+          "updated": "2020-01-10T06:40:26",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16698,
+        "instrumentSymbol": "INDEX-SPCA",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:25Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40401,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "VTS"
+          },
+          "created": "2020-01-10T06:40:26",
+          "updated": "2020-01-10T06:40:26",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16699,
+        "instrumentSymbol": "INDEX-SPGL",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:25Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40399,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "SGI"
+          },
+          "created": "2020-01-10T06:40:26",
+          "updated": "2020-01-10T06:40:26",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16700,
+        "instrumentSymbol": "INDEX-SPJP",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:25Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40400,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "STP"
+          },
+          "created": "2020-01-10T06:40:26",
+          "updated": "2020-01-10T06:40:26",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16701,
+        "instrumentSymbol": "INDEX-SPEU",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:25Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40402,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "SEU"
+          },
+          "created": "2020-01-10T06:40:26",
+          "updated": "2020-01-10T06:40:26",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16702,
+        "instrumentSymbol": "INDEX-SPUK",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:26Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40403,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "SUK"
+          },
+          "created": "2020-01-10T06:40:27",
+          "updated": "2020-01-10T06:40:27",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16703,
+        "instrumentSymbol": "INDEX-SPUS",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:26Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40405,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "VSP"
+          },
+          "created": "2020-01-10T06:40:27",
+          "updated": "2020-01-10T06:40:27",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15167,
+        "instrumentSymbol": "BANK-MU-PLU",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:38Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40232,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "PLU"
+          },
+          "created": "2020-01-10T06:38:39",
+          "updated": "2020-01-10T06:38:39",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16704,
+        "instrumentSymbol": "INDEX-STXX",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:26Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40404,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "VES"
+          },
+          "created": "2020-01-10T06:40:27",
+          "updated": "2020-01-10T06:40:27",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16705,
+        "instrumentSymbol": "INDEX-XAMS-AEX",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:26Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40407,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "AEX"
+          },
+          "created": "2020-01-10T06:40:27",
+          "updated": "2020-01-10T06:40:27",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16706,
+        "instrumentSymbol": "INDEX-WBAH-RDX",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:26Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40406,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "MSC"
+          },
+          "created": "2020-01-10T06:40:27",
+          "updated": "2020-01-10T06:40:27",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15682,
+        "instrumentSymbol": "EXCH-PINX",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:14Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40277,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "PNX"
+          },
+          "created": "2020-01-10T06:39:15",
+          "updated": "2020-01-10T06:39:15",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16707,
+        "instrumentSymbol": "INDEX-XASX-ASX",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:27Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40408,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "VAS"
+          },
+          "created": "2020-01-10T06:40:28",
+          "updated": "2020-01-10T06:40:28",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16708,
+        "instrumentSymbol": "INDEX-XCSE-CSE",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:27Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40410,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "OCO"
+          },
+          "created": "2020-01-10T06:40:28",
+          "updated": "2020-01-10T06:40:28",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16709,
+        "instrumentSymbol": "INDEX-XBRU-BEL",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:27Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40409,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "BEX"
+          },
+          "created": "2020-01-10T06:40:28",
+          "updated": "2020-01-10T06:40:28",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16710,
+        "instrumentSymbol": "INDEX-XFRA-DAX",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:27Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40412,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "VDA"
+          },
+          "created": "2020-01-10T06:40:28",
+          "updated": "2020-01-10T06:40:28",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15174,
+        "instrumentSymbol": "BANK-MY-KUL",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:38Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40234,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "KLM"
+          },
+          "created": "2020-01-10T06:38:40",
+          "updated": "2020-01-10T06:38:40",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16711,
+        "instrumentSymbol": "INDEX-XFRA-DIV",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:27Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40413,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "DDX"
+          },
+          "created": "2020-01-10T06:40:28",
+          "updated": "2020-01-10T06:40:28",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16712,
+        "instrumentSymbol": "INDEX-XICE-ICE",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:27Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40411,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "OIC"
+          },
+          "created": "2020-01-10T06:40:28",
+          "updated": "2020-01-10T06:40:28",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16713,
+        "instrumentSymbol": "INDEX-XKRX-KOS",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:27Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40414,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "KOS"
+          },
+          "created": "2020-01-10T06:40:28",
+          "updated": "2020-01-10T06:40:28",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15177,
+        "instrumentSymbol": "BANK-MX-MEX",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:39Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40233,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "MXC"
+          },
+          "created": "2020-01-10T06:38:40",
+          "updated": "2020-01-10T06:38:40",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16714,
+        "instrumentSymbol": "INDEX-XMAD-IBX",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:27Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40418,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "IBE"
+          },
+          "created": "2020-01-10T06:40:28",
+          "updated": "2020-01-10T06:40:28",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16715,
+        "instrumentSymbol": "INDEX-XHEL-HEL",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:27Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40415,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "OHE"
+          },
+          "created": "2020-01-10T06:40:28",
+          "updated": "2020-01-10T06:40:28",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16716,
+        "instrumentSymbol": "INDEX-XHKG-FXI",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:27Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40421,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "VFX"
+          },
+          "created": "2020-01-10T06:40:29",
+          "updated": "2020-01-10T06:40:29",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16204,
+        "instrumentSymbol": "EXCH-XMUS",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:50Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40329,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "MUY"
+          },
+          "created": "2020-01-10T06:39:51",
+          "updated": "2020-01-10T06:39:51",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16717,
+        "instrumentSymbol": "INDEX-XLIS-PSI",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:27Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40417,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "PSI"
+          },
+          "created": "2020-01-10T06:40:28",
+          "updated": "2020-01-10T06:40:28",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16205,
+        "instrumentSymbol": "EXCH-XNAI",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:50Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40330,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "NRO"
+          },
+          "created": "2020-01-10T06:39:51",
+          "updated": "2020-01-10T06:39:51",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16718,
+        "instrumentSymbol": "INDEX-XNAS-NAS",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:27Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40419,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "NAS"
+          },
+          "created": "2020-01-10T06:40:28",
+          "updated": "2020-01-10T06:40:28",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16719,
+        "instrumentSymbol": "INDEX-XHKG-HSI",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:27Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40416,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "VHS"
+          },
+          "created": "2020-01-10T06:40:28",
+          "updated": "2020-01-10T06:40:28",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16207,
+        "instrumentSymbol": "EXCH-XNAS",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:50Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40331,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "NAX"
+          },
+          "created": "2020-01-10T06:39:51",
+          "updated": "2020-01-10T06:39:51",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15695,
+        "instrumentSymbol": "EXCH-ROCO",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:15Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40278,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "TWX"
+          },
+          "created": "2020-01-10T06:39:16",
+          "updated": "2020-01-10T06:39:16",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16720,
+        "instrumentSymbol": "INDEX-XHKG-HSC",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:27Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40420,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "VHC"
+          },
+          "created": "2020-01-10T06:40:29",
+          "updated": "2020-01-10T06:40:29",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15184,
+        "instrumentSymbol": "BANK-NG-LOS",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:39Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40235,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "LOS"
+          },
+          "created": "2020-01-10T06:38:40",
+          "updated": "2020-01-10T06:38:40",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16721,
+        "instrumentSymbol": "INDEX-XNSE-CNX",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:28Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40422,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "VNF"
+          },
+          "created": "2020-01-10T06:40:29",
+          "updated": "2020-01-10T06:40:29",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15185,
+        "instrumentSymbol": "BANK-NL-AMS",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:39Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40236,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "HLE"
+          },
+          "created": "2020-01-10T06:38:41",
+          "updated": "2020-01-10T06:38:41",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16722,
+        "instrumentSymbol": "INDEX-XSWX-SMI",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:28Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40424,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "VSM"
+          },
+          "created": "2020-01-10T06:40:29",
+          "updated": "2020-01-10T06:40:29",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16723,
+        "instrumentSymbol": "INDEX-XMIC-RTX",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:28Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40423,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "VRT"
+          },
+          "created": "2020-01-10T06:40:29",
+          "updated": "2020-01-10T06:40:29",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16724,
+        "instrumentSymbol": "INDEX-XTAI-TWI",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:28Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40426,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "VTW"
+          },
+          "created": "2020-01-10T06:40:29",
+          "updated": "2020-01-10T06:40:29",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16725,
+        "instrumentSymbol": "INDEX-XPAR-CAC",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:28Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40425,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "VCA"
+          },
+          "created": "2020-01-10T06:40:29",
+          "updated": "2020-01-10T06:40:29",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16213,
+        "instrumentSymbol": "EXCH-XNAS-SETTLE",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:50Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40332,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "0NA"
+          },
+          "created": "2020-01-10T06:39:51",
+          "updated": "2020-01-10T06:39:51",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16726,
+        "instrumentSymbol": "INDEX-XSTO-STO",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:28Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40427,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "VOS"
+          },
+          "created": "2020-01-10T06:40:29",
+          "updated": "2020-01-10T06:40:29",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16727,
+        "instrumentSymbol": "INDEX-XTKS-NIK",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:28Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40429,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "VNK"
+          },
+          "created": "2020-01-10T06:40:30",
+          "updated": "2020-01-10T06:40:30",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15191,
+        "instrumentSymbol": "BANK-NZ-AKL",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:40Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40241,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "AUC"
+          },
+          "created": "2020-01-10T06:38:41",
+          "updated": "2020-01-10T06:38:41",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16728,
+        "instrumentSymbol": "INDEX-XTKS-REI",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:29Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40428,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "VTR"
+          },
+          "created": "2020-01-10T06:40:30",
+          "updated": "2020-01-10T06:40:30",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15192,
+        "instrumentSymbol": "BANK-NZ-WLG",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:40Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40238,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "WEL"
+          },
+          "created": "2020-01-10T06:38:41",
+          "updated": "2020-01-10T06:38:41",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15707,
+        "instrumentSymbol": "EXCH-RTSX",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:16Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40279,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "RTX"
+          },
+          "created": "2020-01-10T06:39:17",
+          "updated": "2020-01-10T06:39:17",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15197,
+        "instrumentSymbol": "BANK-NO-OSL",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:40Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40237,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "OSL"
+          },
+          "created": "2020-01-10T06:38:41",
+          "updated": "2020-01-10T06:38:41",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15199,
+        "instrumentSymbol": "BANK-PE-LIM",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:40Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40239,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "LMA"
+          },
+          "created": "2020-01-10T06:38:41",
+          "updated": "2020-01-10T06:38:41",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15200,
+        "instrumentSymbol": "BANK-OM-MCT",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:40Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40240,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "MUS"
+          },
+          "created": "2020-01-10T06:38:41",
+          "updated": "2020-01-10T06:38:41",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15201,
+        "instrumentSymbol": "BANK-PA-PTY",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:40Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40242,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "PAN"
+          },
+          "created": "2020-01-10T06:38:41",
+          "updated": "2020-01-10T06:38:41",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16231,
+        "instrumentSymbol": "EXCH-XNGS",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:52Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40333,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "NGX"
+          },
+          "created": "2020-01-10T06:39:53",
+          "updated": "2020-01-10T06:39:53",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16233,
+        "instrumentSymbol": "EXCH-XNGO",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:52Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40334,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "NYX"
+          },
+          "created": "2020-01-10T06:39:53",
+          "updated": "2020-01-10T06:39:53",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15724,
+        "instrumentSymbol": "EXCH-SZSC",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:17Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40280,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "ZSC"
+          },
+          "created": "2020-01-10T06:39:18",
+          "updated": "2020-01-10T06:39:18",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15212,
+        "instrumentSymbol": "BANK-PK-KHI",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:41Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40244,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "KHI"
+          },
+          "created": "2020-01-10T06:38:43",
+          "updated": "2020-01-10T06:38:43",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15213,
+        "instrumentSymbol": "BANK-PK-LHE",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:41Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40243,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "ISL"
+          },
+          "created": "2020-01-10T06:38:42",
+          "updated": "2020-01-10T06:38:42",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15215,
+        "instrumentSymbol": "BANK-PL-WAW",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:42Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40245,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "WAR"
+          },
+          "created": "2020-01-10T06:38:43",
+          "updated": "2020-01-10T06:38:43",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16244,
+        "instrumentSymbol": "EXCH-XNSE",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:52Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40335,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "INX"
+          },
+          "created": "2020-01-10T06:39:53",
+          "updated": "2020-01-10T06:39:53",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16248,
+        "instrumentSymbol": "EXCH-XNMS",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:53Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40336,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "NMX"
+          },
+          "created": "2020-01-10T06:39:54",
+          "updated": "2020-01-10T06:39:54",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15225,
+        "instrumentSymbol": "BANK-RO-BUH",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:42Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40246,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "BCH"
+          },
+          "created": "2020-01-10T06:38:43",
+          "updated": "2020-01-10T06:38:43",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15226,
+        "instrumentSymbol": "BANK-QA-DOH",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:42Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40247,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "DOH"
+          },
+          "created": "2020-01-10T06:38:43",
+          "updated": "2020-01-10T06:38:43",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16254,
+        "instrumentSymbol": "EXCH-XNYL",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:53Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40337,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "NME"
+          },
+          "created": "2020-01-10T06:39:54",
+          "updated": "2020-01-10T06:39:54",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15233,
+        "instrumentSymbol": "BANK-RS-BEG",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:43Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40248,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "BEL"
+          },
+          "created": "2020-01-10T06:38:44",
+          "updated": "2020-01-10T06:38:44",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15747,
+        "instrumentSymbol": "EXCH-WBAH",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:19Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40281,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "VIX"
+          },
+          "created": "2020-01-10T06:39:20",
+          "updated": "2020-01-10T06:39:20",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15237,
+        "instrumentSymbol": "BANK-RU-MOW",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:43Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40250,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "MOS"
+          },
+          "created": "2020-01-10T06:38:44",
+          "updated": "2020-01-10T06:38:44",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15238,
+        "instrumentSymbol": "BANK-SA-RUH",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:43Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40249,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "RUH"
+          },
+          "created": "2020-01-10T06:38:44",
+          "updated": "2020-01-10T06:38:44",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15242,
+        "instrumentSymbol": "BANK-SE-STO",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:44Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40252,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "STK"
+          },
+          "created": "2020-01-10T06:38:45",
+          "updated": "2020-01-10T06:38:45",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16268,
+        "instrumentSymbol": "EXCH-XNYS",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:54Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40338,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "USE"
+          },
+          "created": "2020-01-10T06:39:55",
+          "updated": "2020-01-10T06:39:55",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15756,
+        "instrumentSymbol": "EXCH-XADS",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:19Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40282,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "ADX"
+          },
+          "created": "2020-01-10T06:39:20",
+          "updated": "2020-01-10T06:39:20",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15245,
+        "instrumentSymbol": "BANK-SG-SIN",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:44Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40251,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "SNG"
+          },
+          "created": "2020-01-10T06:38:45",
+          "updated": "2020-01-10T06:38:45",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16270,
+        "instrumentSymbol": "EXCH-XNYS-SETTLE",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:54Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40339,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "0NY"
+          },
+          "created": "2020-01-10T06:39:55",
+          "updated": "2020-01-10T06:39:55",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15758,
+        "instrumentSymbol": "EXCH-XAMS",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:19Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40283,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "AMX"
+          },
+          "created": "2020-01-10T06:39:20",
+          "updated": "2020-01-10T06:39:20",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16273,
+        "instrumentSymbol": "EXCH-XNZE",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:54Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40340,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "NZX"
+          },
+          "created": "2020-01-10T06:39:56",
+          "updated": "2020-01-10T06:39:56",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15249,
+        "instrumentSymbol": "BANK-SI-LJU",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:44Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40253,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "LJB"
+          },
+          "created": "2020-01-10T06:38:45",
+          "updated": "2020-01-10T06:38:45",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15764,
+        "instrumentSymbol": "EXCH-XASX",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:20Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40285,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "AUE"
+          },
+          "created": "2020-01-10T06:39:21",
+          "updated": "2020-01-10T06:39:21",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15252,
+        "instrumentSymbol": "BANK-SK-BTS",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:45Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40254,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "BRT"
+          },
+          "created": "2020-01-10T06:38:46",
+          "updated": "2020-01-10T06:38:46",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16277,
+        "instrumentSymbol": "EXCH-XOSE",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:55Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40341,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "OSX"
+          },
+          "created": "2020-01-10T06:39:56",
+          "updated": "2020-01-10T06:39:56",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15768,
+        "instrumentSymbol": "EXCH-XASE",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:20Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40284,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "ASX"
+          },
+          "created": "2020-01-10T06:39:21",
+          "updated": "2020-01-10T06:39:21",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16283,
+        "instrumentSymbol": "EXCH-XOTC",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:55Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40342,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "OBX"
+          },
+          "created": "2020-01-10T06:39:56",
+          "updated": "2020-01-10T06:39:56",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15771,
+        "instrumentSymbol": "EXCH-XATH",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:20Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40286,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "ATX"
+          },
+          "created": "2020-01-10T06:39:22",
+          "updated": "2020-01-10T06:39:22",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16284,
+        "instrumentSymbol": "EXCH-XPAR",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:55Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40344,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "EUE"
+          },
+          "created": "2020-01-10T06:39:57",
+          "updated": "2020-01-10T06:39:57",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16285,
+        "instrumentSymbol": "EXCH-XPAE",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:55Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40343,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "PAE"
+          },
+          "created": "2020-01-10T06:39:56",
+          "updated": "2020-01-10T06:39:56",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15263,
+        "instrumentSymbol": "BANK-TH-BKK",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:45Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40255,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "BGK"
+          },
+          "created": "2020-01-10T06:38:46",
+          "updated": "2020-01-10T06:38:46",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16288,
+        "instrumentSymbol": "EXCH-XOSL",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:56Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40345,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "OLX"
+          },
+          "created": "2020-01-10T06:39:57",
+          "updated": "2020-01-10T06:39:57",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16290,
+        "instrumentSymbol": "EXCH-XPET",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:56Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40347,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "SPX"
+          },
+          "created": "2020-01-10T06:39:57",
+          "updated": "2020-01-10T06:39:57",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16292,
+        "instrumentSymbol": "EXCH-XPHL",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:56Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40346,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "PHX"
+          },
+          "created": "2020-01-10T06:39:57",
+          "updated": "2020-01-10T06:39:57",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16299,
+        "instrumentSymbol": "EXCH-XPHS",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:57Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40348,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "PLX"
+          },
+          "created": "2020-01-10T06:39:58",
+          "updated": "2020-01-10T06:39:58",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15275,
+        "instrumentSymbol": "BANK-TR-IST",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:46Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40256,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "IST"
+          },
+          "created": "2020-01-10T06:38:47",
+          "updated": "2020-01-10T06:38:47",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15276,
+        "instrumentSymbol": "BANK-TW-TPE",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:46Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40257,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "TAI"
+          },
+          "created": "2020-01-10T06:38:48",
+          "updated": "2020-01-10T06:38:48",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15277,
+        "instrumentSymbol": "BANK-US-CHI",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:46Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40258,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "CHI"
+          },
+          "created": "2020-01-10T06:38:48",
+          "updated": "2020-01-10T06:38:48",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15280,
+        "instrumentSymbol": "BANK-UA-IEV",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:47Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40260,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "KYV"
+          },
+          "created": "2020-01-10T06:38:48",
+          "updated": "2020-01-10T06:38:48",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15283,
+        "instrumentSymbol": "BANK-US-NYC",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:47Z"
+      },
+      "mappings": [
+        {
+          "pkey": 46444,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "NYF"
+          },
+          "created": "2020-05-27T18:21:25",
+          "updated": "2020-05-27T18:21:25",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16308,
+        "instrumentSymbol": "EXCH-XPRA",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:57Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40349,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "PRX"
+          },
+          "created": "2020-01-10T06:39:58",
+          "updated": "2020-01-10T06:39:58",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15798,
+        "instrumentSymbol": "EXCH-XBER",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:22Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40287,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "GME"
+          },
+          "created": "2020-01-10T06:39:23",
+          "updated": "2020-01-10T06:39:23",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15290,
+        "instrumentSymbol": "BANK-UY-MVD",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:47Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40262,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "MON"
+          },
+          "created": "2020-01-10T06:38:49",
+          "updated": "2020-01-10T06:38:49",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15292,
+        "instrumentSymbol": "BANK-VE-CCS",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:47Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40261,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "CAR"
+          },
+          "created": "2020-01-10T06:38:49",
+          "updated": "2020-01-10T06:38:49",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15294,
+        "instrumentSymbol": "BANK-VN-HAN",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:48Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40263,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "HAN"
+          },
+          "created": "2020-01-10T06:38:49",
+          "updated": "2020-01-10T06:38:49",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15809,
+        "instrumentSymbol": "EXCH-XBKK",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:23Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40288,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "BKX"
+          },
+          "created": "2020-01-10T06:39:24",
+          "updated": "2020-01-10T06:39:24",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15304,
+        "instrumentSymbol": "BANK-ZA-CPT",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:48Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40264,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "CPT"
+          },
+          "created": "2020-01-10T06:38:49",
+          "updated": "2020-01-10T06:38:49",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15817,
+        "instrumentSymbol": "EXCH-XBOM",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:23Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40289,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "BSX"
+          },
+          "created": "2020-01-10T06:39:24",
+          "updated": "2020-01-10T06:39:24",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15306,
+        "instrumentSymbol": "BANK-ZA-JNB",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:48Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40265,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "JOH"
+          },
+          "created": "2020-01-10T06:38:49",
+          "updated": "2020-01-10T06:38:49",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16334,
+        "instrumentSymbol": "EXCH-XSAU",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:59Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40350,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "SAY"
+          },
+          "created": "2020-01-10T06:40:01",
+          "updated": "2020-01-10T06:40:01",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16341,
+        "instrumentSymbol": "EXCH-XSEC",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:00Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40351,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "SEC"
+          },
+          "created": "2020-01-10T06:40:01",
+          "updated": "2020-01-10T06:40:01",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15319,
+        "instrumentSymbol": "EXCH-AMXO",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:49Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40266,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "AOX"
+          },
+          "created": "2020-01-10T06:38:51",
+          "updated": "2020-01-10T06:38:51",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 16349,
+        "instrumentSymbol": "EXCH-XSES",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:40:00Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40352,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "SIX"
+          },
+          "created": "2020-01-10T06:40:02",
+          "updated": "2020-01-10T06:40:02",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15839,
+        "instrumentSymbol": "EXCH-XBRU",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:25Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40290,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "BLE"
+          },
+          "created": "2020-01-10T06:39:26",
+          "updated": "2020-01-10T06:39:26",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15328,
+        "instrumentSymbol": "EXCH-ARCX",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:50Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40267,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "PSX"
+          },
+          "created": "2020-01-10T06:38:51",
+          "updated": "2020-01-10T06:38:51",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15330,
+        "instrumentSymbol": "EXCH-BALT",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:38:50Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40268,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "BAL"
+          },
+          "created": "2020-01-10T06:38:51",
+          "updated": "2020-01-10T06:38:51",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15846,
+        "instrumentSymbol": "EXCH-XBUD",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:25Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40291,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "BUX"
+          },
+          "created": "2020-01-10T06:39:26",
+          "updated": "2020-01-10T06:39:26",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15851,
+        "instrumentSymbol": "EXCH-XBUE",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:26Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40292,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "BAX"
+          },
+          "created": "2020-01-10T06:39:27",
+          "updated": "2020-01-10T06:39:27",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15861,
+        "instrumentSymbol": "EXCH-XCAI",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:26Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40293,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "CAX"
+          },
+          "created": "2020-01-10T06:39:27",
+          "updated": "2020-01-10T06:39:27",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    },
+    {
+      "instrument": {
+        "instrumentId": 15868,
+        "instrumentSymbol": "EXCH-XCBF",
+        "instrumentType": "holiday",
+        "created": "2020-01-10T06:39:27Z"
+      },
+      "mappings": [
+        {
+          "pkey": 40294,
+          "provider": "pv",
+          "system": "holidays",
+          "mapping": {
+            "code": "CFE"
+          },
+          "created": "2020-01-10T06:39:28",
+          "updated": "2020-01-10T06:39:28",
+          "startDate": "2020-01-10",
+          "endDate": null
+        }
+      ]
+    }
+  ]
+}
